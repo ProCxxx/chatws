@@ -1,0 +1,22 @@
+{
+  "name": "chatws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProCxxx/chatws.git"
+  },
+  "author": "Pr0xY",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ProCxxx/chatws/issues"
+  },
+  "homepage": "https://github.com/ProCxxx/chatws#readme",
+  "dependencies": {
+    "websocket": "^1.0.26"
+  }
+}
